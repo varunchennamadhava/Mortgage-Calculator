@@ -5,4 +5,4 @@ User can enter a purchase price, down payment, and number of years to pay of the
 
 Here's a walkthrough:
 
-<img src='' width='' alt='Video Walkthrough' />
+<img src='https://github.com/varunchennamadhava/Mortgage-Calculator/blob/master/mortageCalc.gif' width='' alt='Video Walkthrough' />
